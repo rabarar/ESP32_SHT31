@@ -4,8 +4,8 @@ Based upon the [Adafruit_SHT31](https://github.com/adafruit/Adafruit_SHT31)
 
 ## Modified gpio pins in sht31.h for Sparkfun Thing
 
-21 SDA
-22 SDC
+- 21 SDA
+- 22 SDC
 
 
 ## Configuration & Installation
